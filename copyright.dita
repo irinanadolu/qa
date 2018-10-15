@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="copyright">
+    <title>Copyright</title>
+    <body>
+        <p><?oxy_custom_start type="oxy_content_highlight" color="140,255,140"?><?oxy_comment_start author="test" timestamp="20180529T123435+0300" comment="bbb" mid="1"?>Most
+            of the
+            <?oxy_custom_end?><?oxy_custom_start type="oxy_content_highlight" color="255,60,255"?><?oxy_comment_start author="test" timestamp="20180529T123401+0300" comment="aaa" mid="3"?>information
+            was<?oxy_custom_end?><?oxy_comment_end mid="3"?><?oxy_custom_start type="oxy_content_highlight" color="140,255,140" mid="4"?>
+            taken from<?oxy_comment_end mid="1"?><?oxy_custom_end mid="4"?>
+            <xref href="http://www.wikipedia.com" format="html" scope="external">Wikipedia</xref>,
+            the free
+                encyclopedia.<?oxy_insert_start author="Anonymous" timestamp="20180810T121714+0300"?><xref
+                href="introduction.dita"/><?oxy_insert_end?></p>
+        <p><mathml><?oxy_delete author="test" timestamp="20180530T135402+0300" content="&lt;m:math xmlns:m=&quot;http://www.w3.org/1998/Math/MathML&quot; display=&quot;block&quot;&gt;&lt;m:mrow&gt;&lt;m:msub&gt;&lt;m:mi&gt;f&lt;/m:mi&gt;&lt;m:mi&gt;n&lt;/m:mi&gt;&lt;/m:msub&gt;&lt;m:mo&gt;=&lt;/m:mo&gt;&lt;m:mfrac&gt;&lt;m:mn&gt;1&lt;/m:mn&gt;&lt;m:msqrt&gt;&lt;m:mn&gt;5&lt;/m:mn&gt;&lt;/m:msqrt&gt;&lt;/m:mfrac&gt;&lt;m:mrow&gt;&lt;m:mo&gt;[&lt;/m:mo&gt;&lt;m:mrow&gt;&lt;m:msup&gt;&lt;m:mrow&gt;&lt;m:mo&gt;(&lt;/m:mo&gt;&lt;m:mfrac&gt;&lt;m:mrow&gt;&lt;m:mn&gt;1&lt;/m:mn&gt;&lt;m:mo&gt;+&lt;/m:mo&gt;&lt;m:msqrt&gt;&lt;m:mn&gt;5&lt;/m:mn&gt;&lt;/m:msqrt&gt;&lt;/m:mrow&gt;&lt;m:mn&gt;2&lt;/m:mn&gt;&lt;/m:mfrac&gt;&lt;m:mo&gt;)&lt;/m:mo&gt;&lt;/m:mrow&gt;&lt;m:mi&gt;n&lt;/m:mi&gt;&lt;/m:msup&gt;&lt;m:mo&gt;-&lt;/m:mo&gt;&lt;m:msup&gt;&lt;m:mrow&gt;&lt;m:mo&gt;(&lt;/m:mo&gt;&lt;m:mfrac&gt;&lt;m:mrow&gt;&lt;m:mn&gt;1&lt;/m:mn&gt;&lt;m:mo&gt;-&lt;/m:mo&gt;&lt;m:msqrt&gt;&lt;m:mn&gt;5&lt;/m:mn&gt;&lt;/m:msqrt&gt;&lt;/m:mrow&gt;&lt;m:mn&gt;2&lt;/m:mn&gt;&lt;/m:mfrac&gt;&lt;m:mo&gt;)&lt;/m:mo&gt;&lt;/m:mrow&gt;&lt;m:mi&gt;n&lt;/m:mi&gt;&lt;/m:msup&gt;&lt;/m:mrow&gt;&lt;m:mo&gt;]&lt;/m:mo&gt;&lt;/m:mrow&gt;&lt;/m:mrow&gt;&lt;/m:math&gt;"?></mathml></p>
+        <p>mathml introdus fara change tracking
+                <mathml><?oxy_delete author="test" timestamp="20180530T140357+0300" content="&lt;m:math xmlns:m=&quot;http://www.w3.org/1998/Math/MathML&quot; display=&quot;block&quot;&gt;&lt;m:mrow&gt;&lt;m:msub&gt;&lt;m:mi&gt;f&lt;/m:mi&gt;&lt;m:mi&gt;n&lt;/m:mi&gt;&lt;/m:msub&gt;&lt;m:mo&gt;=&lt;/m:mo&gt;&lt;m:mfrac&gt;&lt;m:mn&gt;1&lt;/m:mn&gt;&lt;m:msqrt&gt;&lt;m:mn&gt;5&lt;/m:mn&gt;&lt;/m:msqrt&gt;&lt;/m:mfrac&gt;&lt;m:mrow&gt;&lt;m:mo&gt;[&lt;/m:mo&gt;&lt;m:mrow&gt;&lt;m:msup&gt;&lt;m:mrow&gt;&lt;m:mo&gt;(&lt;/m:mo&gt;&lt;m:mfrac&gt;&lt;m:mrow&gt;&lt;m:mn&gt;1&lt;/m:mn&gt;&lt;m:mo&gt;+&lt;/m:mo&gt;&lt;m:msqrt&gt;&lt;m:mn&gt;5&lt;/m:mn&gt;&lt;/m:msqrt&gt;&lt;/m:mrow&gt;&lt;m:mn&gt;2&lt;/m:mn&gt;&lt;/m:mfrac&gt;&lt;m:mo&gt;)&lt;/m:mo&gt;&lt;/m:mrow&gt;&lt;m:mi&gt;n&lt;/m:mi&gt;&lt;/m:msup&gt;&lt;m:mo&gt;-&lt;/m:mo&gt;&lt;m:msup&gt;&lt;m:mrow&gt;&lt;m:mo&gt;(&lt;/m:mo&gt;&lt;m:mfrac&gt;&lt;m:mrow&gt;&lt;m:mn&gt;1&lt;/m:mn&gt;&lt;m:mo&gt;-&lt;/m:mo&gt;&lt;m:msqrt&gt;&lt;m:mn&gt;5&lt;/m:mn&gt;&lt;/m:msqrt&gt;&lt;/m:mrow&gt;&lt;m:mn&gt;2&lt;/m:mn&gt;&lt;/m:mfrac&gt;&lt;m:mo&gt;)&lt;/m:mo&gt;&lt;/m:mrow&gt;&lt;m:mi&gt;n&lt;/m:mi&gt;&lt;/m:msup&gt;&lt;/m:mrow&gt;&lt;m:mo&gt;]&lt;/m:mo&gt;&lt;/m:mrow&gt;&lt;/m:mrow&gt;&lt;/m:math&gt;"?></mathml></p>
+        <p>mathml introdus fara change tracking pe care il modific
+                c<?oxy_insert_start author="test" timestamp="20180712T115519+0300"?><xref
+                href="introduction.dita"/><?oxy_insert_end?>u change tracking<mathml>
+                <?oxy_delete author="test" timestamp="20180530T141511+0300" content="&lt;m:math xmlns:m=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;m:mrow&gt;&lt;m:msup&gt;&lt;m:mi&gt;a&lt;/m:mi&gt;&lt;m:mn&gt;2&lt;/m:mn&gt;&lt;/m:msup&gt;&lt;m:mo&gt;=&lt;/m:mo&gt;&lt;m:msup&gt;&lt;m:mi&gt;b&lt;/m:mi&gt;&lt;m:mn&gt;2&lt;/m:mn&gt;&lt;/m:msup&gt;&lt;m:mo&gt;+&lt;/m:mo&gt;&lt;m:msup&gt;&lt;m:mi&gt;c&lt;/m:mi&gt;&lt;m:mn&gt;2&lt;/m:mn&gt;&lt;/m:msup&gt;&lt;/m:mrow&gt;&lt;/m:math&gt;"?>
+                <?oxy_insert_start author="test" timestamp="20180530T141511+0300"?>
+                <?oxy_comment_start author="test" timestamp="20180530T142542+0300" comment="ff"?>
+                <m:math xmlns:m="http://www.w3.org/1998/Math/MathML">
+                    <m:mrow>
+                        <m:msup>
+                            <m:mi>a</m:mi>
+                            <m:mn>233</m:mn>
+                        </m:msup>
+                        <m:mo>=</m:mo>
+                        <m:msup>
+                            <m:mi>b</m:mi>
+                            <m:mn>2</m:mn>
+                        </m:msup>
+                        <m:mo>+</m:mo>
+                        <m:msup>
+                            <m:mi>c</m:mi>
+                            <m:mn>2</m:mn>
+                        </m:msup>
+                    </m:mrow>
+                </m:math>
+                <?oxy_insert_end?><?oxy_comment_end?>
+            </mathml></p>
+        <p>mathml introdus cu change tracking
+            <?oxy_insert_start author="test" timestamp="20180530T140346+0300"?><mathml/><?oxy_insert_end?></p>
+        <p>mathml<?oxy_delete author="test" timestamp="20180712T123308+0300" content="&lt;codeblock/&gt;"?><?oxy_insert_start author="test" timestamp="20180712T135841+0300"?><codeblock>
+
+</codeblock><?oxy_insert_end?><?oxy_delete author="test" timestamp="20180712T123308+0300" content="&lt;codeblock/&gt;"?><?oxy_insert_start author="test" timestamp="20180712T123312+0300"?><codeblock>
+
+</codeblock><?oxy_insert_end?>
+            introdus cu change tracking pe care il modific cu change tracking <?oxy_insert_start author="test" timestamp="20180530T141554+0300"?><mathml>
+                <m:math xmlns:m="http://www.w3.org/1998/Math/MathML">
+                    <m:mrow>
+                        <m:msup>
+                            <m:mi>a</m:mi>
+                            <m:mn>2</m:mn>
+                        </m:msup>
+                        <m:mo>=</m:mo>
+                        <m:msup>
+                            <m:mi>bsss</m:mi>
+                            <m:mn>2</m:mn>
+                        </m:msup>
+                        <m:mo>+</m:mo>
+                        <m:msup>
+                            <m:mi>c</m:mi>
+                            <m:mn>2</m:mn>
+                        </m:msup>
+                    </m:mrow>
+                </m:math>
+            </mathml><?oxy_insert_end?></p>
+    </body>
+</topic>
+<?oxy_options track_changes="on"?>
