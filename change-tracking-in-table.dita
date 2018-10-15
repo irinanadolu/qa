@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_qxh_xd4_tdb">
+    <title>Demo sessions @ TCWorld 2018</title>
+    <body>
+        <p>Proposals:</p>
+        <p><?oxy_delete author="Stefan Vasile" timestamp="20180613T082759+0000" content="&lt;simpletable frame=&quot;all&quot; relcolwidth=&quot;1.0* 2.0* 2.5*&quot; id=&quot;simpletable_cgm_v24_tdb&quot;&gt;&lt;sthead&gt;&lt;stentry&gt;Author&lt;/stentry&gt;&lt;stentry&gt;Title&lt;/stentry&gt;&lt;stentry&gt;Description&lt;/stentry&gt;&lt;/sthead&gt;&lt;strow&gt;&lt;stentry&gt;Alex Jitianu&lt;/stentry&gt;&lt;stentry&gt;DITA Profiling for the Impatient&lt;/stentry&gt;&lt;stentry&gt;A quick overview on the options you have to mark content in DITA for different deliverables and how to use Oxygen to achieve that end.&lt;/stentry&gt;&lt;/strow&gt;&lt;strow&gt;&lt;stentry&gt;Radu Coravu&lt;/stentry&gt;&lt;stentry&gt;Using CSS to produce PDF output from HTML or XML content&lt;/stentry&gt;&lt;stentry&gt;The Oxygen Chemistry processor can be used to produce PDFs from XML or HTML content using the CSS pagination standard to style the output. This is an overview of how CSS can be used to style printed content.&lt;/stentry&gt;&lt;/strow&gt;&lt;strow&gt;&lt;stentry&gt;Radu Coravu&lt;/stentry&gt;&lt;stentry&gt;Quick start - Editing DITA with Oxygen&lt;/stentry&gt;&lt;stentry&gt;A short tutorial showing an overview of the functionality Oxygen XML Editor has for editing and publishing DITA content.&lt;/stentry&gt;&lt;/strow&gt;&lt;strow&gt;&lt;stentry&gt;Alex Jitianu&lt;/stentry&gt;&lt;stentry&gt;Adding support in Oxygen for your own XML vocabulary&lt;/stentry&gt;&lt;stentry&gt;A short tutorial showing how specialized editing support for a certain XML vocabulary can be added in Oxygen (validation, content completion, visual editing, custom actions, custom business validation rules).&lt;/stentry&gt;&lt;/strow&gt;&lt;strow&gt;&lt;stentry/&gt;&lt;stentry&gt;Customizing the DITA to WebHelp output&lt;/stentry&gt;&lt;stentry&gt;Creating publishing templates to customize the WebHelp output.&lt;/stentry&gt;&lt;/strow&gt;&lt;strow&gt;&lt;stentry&gt;Alex Jitianu&lt;/stentry&gt;&lt;stentry&gt;DITA Reuse Best Practices&lt;/stentry&gt;&lt;stentry&gt;Learning how to efficiently organize your reuse strategy using Oxygen and DITA.&lt;/stentry&gt;&lt;/strow&gt;&lt;strow&gt;&lt;stentry&gt;Radu Coravu&lt;/stentry&gt;&lt;stentry&gt;Oxygen XML Editor Tips and Tricks&lt;/stentry&gt;&lt;stentry&gt;Lots of tips and tricks to discover hidden functionality in Oxygen XML Editor.&lt;/stentry&gt;&lt;/strow&gt;&lt;strow&gt;&lt;stentry/&gt;&lt;stentry&gt;Documentation Workflow&lt;/stentry&gt;&lt;stentry&gt;An example of a documentation workflow in a company. Tools and solutions for your documentation project.&lt;/stentry&gt;&lt;/strow&gt;&lt;strow&gt;&lt;stentry/&gt;&lt;stentry&gt;Maintain Documentation in Multiple Languages&lt;/stentry&gt;&lt;stentry/&gt;&lt;/strow&gt;&lt;/simpletable&gt;"?></p>
+        <?oxy_insert_start author="Stefan Vasile" timestamp="20180613T061758+0000"?>
+        <p>Description:  Short Outline (up to 250 characters including blank spaces):</p>
+        <?oxy_insert_end?>
+        <section id="section_hs2_zd4_tdb">
+            <title>Tuesday, November 13 </title>
+            <?oxy_attributes relcolwidth="&lt;change type=&quot;modified&quot; oldValue=&quot;1.0* 2.0* 2.5* 2.0*&quot; author=&quot;Stefan Vasile&quot; timestamp=&quot;20180613T060533+0000&quot; /&gt;"?>
+            <simpletable frame="all" relcolwidth="1.0* 1.0* 1.5* 2.0*" id="simpletable_h1f_g24_tdb">
+                <sthead>
+                    <stentry>Time</stentry>
+                    <stentry>Author</stentry>
+                    <stentry>Title</stentry>
+                    <stentry>Description</stentry>
+                </sthead>
+                <strow>
+                    <stentry>13:45</stentry>
+                    <stentry><?oxy_insert_start author="Stefan Vasile" timestamp="20180604T122857+0000"?>Radu
+                        Coravu<?oxy_insert_end?></stentry>
+                    <stentry><?oxy_insert_start author="Stefan Vasile" timestamp="20180604T122758+0000"?>Getting
+                        Started with DITA and Oxygen<?oxy_insert_end?></stentry>
+                    <stentry><?oxy_insert_start author="Stefan Vasile" timestamp="20180613T061035+0000"?>A
+                        short tutorial showing an overview of the functionality Oxygen XML Editor
+                        has for editing and publishing DITA content.<?oxy_insert_end?></stentry>
+                </strow>
+                <strow>
+                    <stentry>16:15</stentry>
+                    <stentry><?oxy_insert_start author="Stefan Vasile" timestamp="20180604T122856+0000"?>Alex
+                        Jitianu<?oxy_insert_end?></stentry>
+                    <stentry><?oxy_insert_start author="Stefan Vasile" timestamp="20180604T122830+0000"?>DITA Reuse
+                        Best Practices<?oxy_insert_end?></stentry>
+                    <stentry><?oxy_insert_start author="Stefan Vasile" timestamp="20180604T122838+0000"?>Learning
+                        how to efficiently organize your reuse strategy using Oxygen and DITA. A
+                        quick overview on the options you have to mark content in DITA for different
+                        deliverables and how to use Oxygen to achieve
+                        that.<?oxy_insert_end?></stentry>
+                </strow>
+            </simpletable>
+        </section>
+        <section id="section_qgy_b24_tdb">
+            <title>Wednesday, November 14</title>
+            <?oxy_attributes relcolwidth="&lt;change type=&quot;modified&quot; oldValue=&quot;1.0* 1.0* 2.5* 2.0*&quot; author=&quot;Stefan Vasile&quot; timestamp=&quot;20180613T060912+0000&quot; /&gt;"?>
+            <simpletable frame="all" relcolwidth="1.0* 1.0* 1.5* 2.0*" id="simpletable_nwk_h24_tdb">
+                <sthead>
+                    <stentry>Time</stentry>
+                    <stentry>Author</stentry>
+                    <stentry>Title</stentry>
+                    <stentry>Description</stentry>
+                </sthead>
+                <strow>
+                    <stentry>11:15</stentry>
+                    <stentry><?oxy_insert_start author="Stefan Vasile" timestamp="20180604T122951+0000"?>Radu
+                        Coravu<?oxy_insert_end?></stentry>
+                    <stentry><?oxy_insert_start author="Stefan Vasile" timestamp="20180604T122926+0000"?>Publishing
+                        DITA to Oxygen WebHelp and PDF<?oxy_insert_end?></stentry>
+                    <stentry><?oxy_insert_start author="Stefan Vasile" timestamp="20180604T122933+0000"?>Learn how
+                        to create publishing templates to customize the WebHelp and PDF output. We
+                        will also show an overview of how CSS can be used to style printed content
+                        using the Oxygen PDF Chemistry processor.<?oxy_insert_end?></stentry>
+                </strow>
+                <strow>
+                    <stentry>14:45</stentry>
+                    <stentry><?oxy_insert_start author="Stefan Vasile" timestamp="20180604T123004+0000"?>Alex
+                        Jitianu<?oxy_insert_end?></stentry>
+                    <stentry><?oxy_insert_start author="Stefan Vasile" timestamp="20180604T123109+0000"?><?oxy_comment_start author="Alex Jitianu" timestamp="20180613T091143+0000" comment="Should we do something for the PI MOD standard? I heard it is widely spread inside the German community. Can we get the schema from somewhere?"?>Oxygen
+                        Frameworks - Adding Support in Oxygen for XML
+                        Vocabularies<?oxy_comment_end?><?oxy_insert_end?></stentry>
+                    <stentry><?oxy_insert_start author="Stefan Vasile" timestamp="20180613T061323+0000"?>A short
+                        tutorial showing how specialized editing support for a certain XML
+                        vocabulary can be added in Oxygen (validation, content completion, visual
+                        editing, custom actions, validation using custom business
+                        rules).<?oxy_insert_end?></stentry>
+                </strow>
+                <strow>
+                    <stentry>17:15</stentry>
+                    <stentry><?oxy_insert_start author="Stefan Vasile" timestamp="20180604T123227+0000"?>Octavian
+                        Nadolu<?oxy_insert_end?></stentry>
+                    <stentry><?oxy_insert_start author="Stefan Vasile" timestamp="20180613T070130+0000"?><?oxy_comment_start author="Octavian" timestamp="20180613T085601+0000" comment="I don&apos;t know about the title.... was &quot;Documentation workflow&quot;
+My ideea was to present the documentation workflow in our company, what tools we use (oxygen, git, fusion, jira, edit from webhelp or pdf ...). And maybe some examples of using a CMS (I don&apos;t know exactly how I can show this but maybe just same diagrams)
+ "?>Collaboration
+                        Tools to Help Improve Documentation
+                        Processes<?oxy_comment_end?><?oxy_insert_end?></stentry>
+                    <stentry><?oxy_insert_start author="Stefan Vasile" timestamp="20180613T061338+0000"?><?oxy_comment_start author="Octavian" timestamp="20180613T091823+0000" comment="If we used the title of the webinar we can use also its description:
+An in-depth view of our documentation workflow to show real world use-cases of how you can use Oxygen products to efficiently and thoroughly collaborate with everyone involved in the documentation process."?>An
+                        example of a documentation workflow in a company. Tools and solutions for
+                        your documentation project.<?oxy_comment_end?><?oxy_insert_end?></stentry>
+                </strow>
+            </simpletable>
+        </section>
+        <section id="section_nvc_c24_tdb">
+            <title>Thursday, November 15 </title>
+            <simpletable frame="all" relcolwidth="1.0* 2.0* 2.5* 3.0*" id="simpletable_uy4_h24_tdb">
+                <sthead>
+                    <stentry>Time</stentry>
+                    <stentry>Author</stentry>
+                    <stentry>Title</stentry>
+                    <stentry>Description</stentry>
+                </sthead>
+                <strow>
+                    <stentry>
+                        <p>11:15</p>
+                    </stentry>
+                    <stentry><?oxy_insert_start author="Stefan Vasile" timestamp="20180604T123257+0000"?>Radu
+                        Coravu<?oxy_insert_end?></stentry>
+                    <stentry><?oxy_insert_start author="Stefan Vasile" timestamp="20180604T123313+0000"?><?oxy_comment_start author="Stefan Vasile" timestamp="20180604T122238+0000" comment=" "?>Oxygen
+                        XML Editor - Tips and Tricks<?oxy_comment_end?><?oxy_insert_end?></stentry>
+                    <stentry><?oxy_insert_start author="Stefan Vasile" timestamp="20180613T060825+0000"?>Lots of
+                        tips and tricks to discover interesting functionality in Oxygen XML
+                        Editor.<?oxy_insert_end?></stentry>
+                </strow>
+            </simpletable>
+        </section>
+    </body>
+</topic>
+<?oxy_options track_changes="on"?>
