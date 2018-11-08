@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="copyright">
-    <title>Copyright</title>
+    <title>Copyright<?oxy_insert_start author="irinanadolu" timestamp="20181108T094022+0200"?>s<?oxy_insert_end?></title>
     <body>
         <p><?oxy_custom_start type="oxy_content_highlight" color="140,255,140"?><?oxy_comment_start author="test" timestamp="20180529T123435+0300" comment="bbb" mid="1"?>Most
             of the
