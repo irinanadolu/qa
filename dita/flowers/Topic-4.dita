@@ -3,6 +3,6 @@
 <topic id="topic_urd_z1c_kfb">
     <title>titlu</title>
     <body>
-        <p></p>
+        <p conref="Topic-5.dita#topic5"/>
     </body>
 </topic>
