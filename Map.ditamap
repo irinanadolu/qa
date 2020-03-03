@@ -2,5 +2,5 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
     <title>map</title>
-    <topicref href="gitgh://https%3A%2F%2Fgithub.com%2Firinanadolu%2Faaa/master/new.dita"/>
+    <topicref href="../aaa/new.dita"/>
 </map>
