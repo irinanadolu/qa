@@ -1,0 +1,1 @@
+oxy_webhelp_navlinks = {"winterFlowers-d318e138":{"topics":[{"title":"Gerbera","href":"topics\/flowers\/gerbera.html","attributes":{"data-id":"gerbera"},"menu":{"hasChildren":false},"tocID":"gerbera-d318e146","topics":[]}]}};
